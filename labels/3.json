@@ -1,0 +1,12 @@
+[
+    {"type": "NAME", "text": "Нина", "start": 13, "end": 17},
+    {"type": "SURNAME", "text": "Зуев", "start": 18, "end": 22},
+    {"type": "PASSPORT", "text": "4542 549704", "start": 82, "end": 93},
+    {"type": "PASSPORT", "text": "4542549704", "start": 110, "end": 120},
+    {"type": "DATE", "text": "06.08.1964", "start": 176, "end": 186},
+    {"type": "PHONE", "text": "8 947 913 9917", "start": 200, "end": 214},
+    {"type": "EMAIL", "text": "uljan82@example.com", "start": 227, "end": 246},
+    {"type": "PROJECT_ID", "text": "ABC-971", "start": 258, "end": 265},
+    {"type": "ORG_NAME", "text": "«Юдина-Богданов»", "start": 278, "end": 294},
+    {"type": "LOC_NAME", "text": "Великий Устюг", "start": 296, "end": 309}
+]

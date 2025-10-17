@@ -1,0 +1,14 @@
+[
+    {"type": "SURNAME", "text": "Маркова", "start": 13, "end": 20},
+    {"type": "NAME", "text": "Галина", "start": 21, "end": 27},
+    {"type": "INN", "text": "6178065375", "start": 37, "end": 47},
+    {"type": "PASSPORT", "text": "4555 867253", "start": 90, "end": 101},
+    {"type": "PASSPORT", "text": "4555867253", "start": 119, "end": 129},
+    {"type": "CARD", "text": "2180 3075 4428 6922", "start": 147, "end": 166},
+    {"type": "DATE", "text": "10.04.1981", "start": 182, "end": 192},
+    {"type": "PHONE", "text": "+7 (715) 110-07-95", "start": 203, "end": 221},
+    {"type": "EMAIL", "text": "vera_1978@example.net", "start": 229, "end": 250},
+    {"type": "PROJECT_ID", "text": "ABC-631", "start": 261, "end": 268},
+    {"type": "ORG_NAME", "text": "ТарасовРоманов", "start": 277, "end": 296},
+    {"type": "LOC_NAME", "text": "Геленджик", "start": 308, "end": 315}
+]

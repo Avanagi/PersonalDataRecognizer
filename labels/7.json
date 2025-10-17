@@ -1,0 +1,14 @@
+[
+    {"type": "SURNAME", "text": "Сергеев", "start": 13, "end": 20},
+    {"type": "NAME", "text": "Юлиан", "start": 21, "end": 26},
+    {"type": "INN", "text": "5994012699", "start": 36, "end": 46},
+    {"type": "PASSPORT", "text": "4508 251841", "start": 89, "end": 100},
+    {"type": "PASSPORT", "text": "4508251841", "start": 118, "end": 128},
+    {"type": "CARD", "text": "8409 3615 5920 5196", "start": 146, "end": 165},
+    {"type": "DATE", "text": "28.03.2002", "start": 181, "end": 191},
+    {"type": "PHONE", "text": "8 (810) 852-2337", "start": 202, "end": 218},
+    {"type": "EMAIL", "text": "fokinostap@example.com", "start": 226, "end": 248},
+    {"type": "PROJECT_ID", "text": "ABC-810", "start": 259, "end": 266},
+    {"type": "ORG_NAME", "text": "Кузнецова-Брагин", "start": 275, "end": 297},
+    {"type": "LOC_NAME", "text": "Москва", "start": 309, "end": 315}
+]

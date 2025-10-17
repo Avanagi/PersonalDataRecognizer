@@ -1,0 +1,14 @@
+[
+    {"type": "SURNAME", "text": "Исаев", "start": 13, "end": 18},
+    {"type": "NAME", "text": "Петр", "start": 19, "end": 23},
+    {"type": "INN", "text": "7707083893", "start": 31, "end": 41},
+    {"type": "PASSPORT", "text": "4515 983026", "start": 85, "end": 96},
+    {"type": "PASSPORT", "text": "4515983026", "start": 114, "end": 124},
+    {"type": "CARD", "text": "4242424242424242", "start": 143, "end": 159},
+    {"type": "DATE", "text": "15.01.2005", "start": 176, "end": 186},
+    {"type": "PHONE", "text": "+7 (825) 505-0183", "start": 198, "end": 215},
+    {"type": "EMAIL", "text": "platon82@example.net", "start": 225, "end": 246},
+    {"type": "PROJECT_ID", "text": "ABC-478", "start": 258, "end": 265},
+    {"type": "ORG_NAME", "text": "ОМК", "start": 280, "end": 289},
+    {"type": "LOC_NAME", "text": "Избербаш", "start": 301, "end": 313}
+]

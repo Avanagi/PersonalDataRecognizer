@@ -1,0 +1,15 @@
+[
+    {"type": "SURNAME", "text": "Васильева", "start": 13, "end": 22},
+    {"type": "NAME", "text": "Екатерина", "start": 23, "end": 32},
+    {"type": "INN", "text": "7233490713", "start": 42, "end": 52},
+    {"type": "PASSPORT", "text": "4529 798027", "start": 95, "end": 106},
+    {"type": "PASSPORT", "text": "4529798027", "start": 124, "end": 134},
+    {"type": "CARD", "text": "5903 5408 5428 1864", "start": 152, "end": 171},
+    {"type": "DATE", "text": "28.07.1985", "start": 187, "end": 197},
+    {"type": "PHONE", "text": "+7 202 129 26 26", "start": 208, "end": 224},
+    {"type": "EMAIL", "text": "konovalovlavr@example.com", "start": 232, "end": 257},
+    {"type": "PROJECT_ID", "text": "ABC-707", "start": 268, "end": 275},
+    {"type": "ORG_NAME", "text": "НПО", "start": 280, "end": 282},
+    {"type": "ORG_NAME", "text": "Восход", "start": 284, "end": 295},
+    {"type": "LOC_NAME", "text": "Кизляр", "start": 307, "end": 313}
+]

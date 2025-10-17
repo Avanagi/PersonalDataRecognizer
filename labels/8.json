@@ -1,0 +1,12 @@
+[
+    {"type": "SURNAME", "text": "Тарасова", "start": 13, "end": 21},
+    {"type": "NAME", "text": "Любовь", "start": 22, "end": 28},
+    {"type": "PASSPORT", "text": "4594 151242", "start": 91, "end": 102},
+    {"type": "PASSPORT", "text": "4594151242", "start": 120, "end": 130},
+    {"type": "DATE", "text": "16.09.1992", "start": 183, "end": 193},
+    {"type": "PHONE", "text": "+7 003 418 90 29", "start": 204, "end": 220},
+    {"type": "EMAIL", "text": "amos2019@example.net", "start": 228, "end": 248},
+    {"type": "PROJECT_ID", "text": "ABC-534", "start": 259, "end": 266},
+    {"type": "ORG_NAME", "text": "Морской терминал", "start": 275, "end": 296},
+    {"type": "LOC_NAME", "text": "Кисловодск", "start": 308, "end": 318}
+]

@@ -1,0 +1,12 @@
+[
+    {"type": "SURNAME", "text": "Жуков", "start": 13, "end": 18},
+    {"type": "NAME", "text": "Арсений", "start": 19, "end": 26},
+    {"type": "PASSPORT", "text": "4581 998053", "start": 89, "end": 100},
+    {"type": "PASSPORT", "text": "4581998053", "start": 118, "end": 128},
+    {"type": "DATE", "text": "29.09.2005", "start": 181, "end": 191},
+    {"type": "PHONE", "text": "+79821827682", "start": 202, "end": 214},
+    {"type": "EMAIL", "text": "olga_1980@example.net", "start": 222, "end": 243},
+    {"type": "PROJECT_ID", "text": "ABC-844", "start": 254, "end": 261},
+    {"type": "ORG_NAME", "text": "Ильин Групп", "start": 275, "end": 286},
+    {"type": "LOC_NAME", "text": "Шатой", "start": 298, "end": 303}
+]

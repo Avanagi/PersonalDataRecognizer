@@ -1,0 +1,13 @@
+    [
+        {"type": "SURNAME", "text": "Петров", "start": 14, "end": 20},
+        {"type": "NAME", "text": "Инна", "start": 21, "end": 25},
+        {"type": "INN", "text": "7707083893", "start": 35, "end": 45},
+        {"type": "PASSPORT", "text": "4506 123456", "start": 90, "end": 101},
+        {"type": "PASSPORT", "text": "4505123123", "start": 116, "end": 126},
+        {"type": "CARD", "text": "4242424242424242", "start": 145, "end": 161},
+        {"type": "DATE", "text": "25.12.1990", "start": 175, "end": 185},
+        {"type": "PHONE", "text": "+7(999)123-45-67", "start": 197, "end": 212},
+        {"type": "EMAIL", "text": "test@example.com", "start": 222, "end": 238},
+        {"type": "PROJECT_ID", "text": "ABC-123", "start": 249, "end": 256},
+        {"type": "LOC_NAME", "text": "Узбекистан", "start": 258, "end": 267}
+    ]

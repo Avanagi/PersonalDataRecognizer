@@ -1,0 +1,14 @@
+[
+    {"type": "SURNAME", "text": "Галкин", "start": 13, "end": 19},
+    {"type": "NAME", "text": "Владимир", "start": 20, "end": 28},
+    {"type": "INN", "text": "9460164004", "start": 38, "end": 48},
+    {"type": "PASSPORT", "text": "4589 373324", "start": 91, "end": 102},
+    {"type": "PASSPORT", "text": "4589373324", "start": 120, "end": 130},
+    {"type": "CARD", "text": "4242 4242 4242 4242", "start": 148, "end": 167},
+    {"type": "DATE", "text": "13.10.1991", "start": 183, "end": 193},
+    {"type": "PHONE", "text": "+7 529 116 2722", "start": 204, "end": 219},
+    {"type": "EMAIL", "text": "evgenija65@example.org", "start": 227, "end": 249},
+    {"type": "PROJECT_ID", "text": "ABC-208", "start": 260, "end": 267},
+    {"type": "ORG_NAME", "text": "Фадеева-Осипова", "start": 286, "end": 302},
+    {"type": "LOC_NAME", "text": "Магнитогорск", "start": 314, "end": 326}
+]
