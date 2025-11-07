@@ -1,5 +1,5 @@
     [
-        {"type": "SURNAME", "text": "Петров", "start": 14, "end": 20},
+        {"type": "SURNAME", "text": "Петрова", "start": 14, "end": 20},
         {"type": "NAME", "text": "Инна", "start": 21, "end": 25},
         {"type": "INN", "text": "7707083893", "start": 35, "end": 45},
         {"type": "PASSPORT", "text": "4506 123456", "start": 90, "end": 101},
