@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Алла", "start": 12, "end": 16},
+    {"type": "SURNAME", "text": "Константинова", "start": 17, "end": 30},
+    {"type": "INN", "text": "2300441190", "start": 38, "end": 48},
+    {"type": "PASSPORT", "text": "4565 163101", "start": 95, "end": 106},
+    {"type": "PASSPORT", "text": "4565163101", "start": 124, "end": 134},
+    {"type": "CARD", "text": "6549 8394 6778 1197", "start": 152, "end": 171},
+    {"type": "DATE", "text": "14.11.1962", "start": 187, "end": 197},
+    {"type": "PHONE", "text": "+7 (196) 728-4759", "start": 208, "end": 225},
+    {"type": "EMAIL", "text": "mark66@example.org", "start": 233, "end": 252},
+    {"type": "PROJECT_ID", "text": "ABC-285", "start": 263, "end": 270},
+    {"type": "ORG_NAME", "text": "Дуб", "start": 283, "end": 286},
+    {"type": "LOC_NAME", "text": "Тверь", "start": 298, "end": 303}
+]

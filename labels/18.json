@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Светлана", "start": 12, "end": 20},
+    {"type": "SURNAME", "text": "Дмитриева", "start": 21, "end": 30},
+    {"type": "INN", "text": "2789414826", "start": 40, "end": 50},
+    {"type": "PASSPORT", "text": "4542 241308", "start": 97, "end": 108},
+    {"type": "PASSPORT", "text": "4542241308", "start": 126, "end": 136},
+    {"type": "CARD", "text": "5849 3919 9066 3269", "start": 154, "end": 173},
+    {"type": "DATE", "text": "31.07.1990", "start": 189, "end": 199},
+    {"type": "PHONE", "text": "89219592337", "start": 210, "end": 221},
+    {"type": "EMAIL", "text": "pankrat_2009@example.com", "start": 229, "end": 254},
+    {"type": "PROJECT_ID", "text": "ABC-831", "start": 265, "end": 272},
+    {"type": "ORG_NAME", "text": "Громова", "start": 285, "end": 292},
+    {"type": "LOC_NAME", "text": "Тверь", "start": 305, "end": 310}
+]

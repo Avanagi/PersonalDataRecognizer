@@ -1,0 +1,13 @@
+pandas
+torch
+numpy
+transformers
+corus
+datasets
+tqdm
+pymorphy3
+faker
+seqeval
+scikit-learn
+bert-score
+hf_xet

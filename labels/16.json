@@ -1,0 +1,13 @@
+[
+    {"type": "NAME", "text": "Марфа", "start": 12, "end": 17},
+    {"type": "SURNAME", "text": "Захарова", "start": 18, "end": 26},
+    {"type": "INN", "text": "1067915003", "start": 36, "end": 46},
+    {"type": "PASSPORT", "text": "4568 269125", "start": 93, "end": 104},
+    {"type": "PASSPORT", "text": "4568269125", "start": 122, "end": 132},
+    {"type": "DATE", "text": "04.07.1960", "start": 185, "end": 195},
+    {"type": "PHONE", "text": "8 120 407 8716", "start": 206, "end": 219},
+    {"type": "EMAIL", "text": "rodion_1973@example.net", "start": 227, "end": 253},
+    {"type": "PROJECT_ID", "text": "ABC-635", "start": 264, "end": 271},
+    {"type": "ORG_NAME", "text": "РивГош", "start": 284, "end": 291},
+    {"type": "LOC_NAME", "text": "Махачкала", "start": 304, "end": 314}
+]

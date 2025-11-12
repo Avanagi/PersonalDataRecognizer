@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Иван", "start": 7, "end": 11},
+    {"type": "SURNAME", "text": "Иванову", "start": 12, "end": 19},
+    {"type": "INN", "text": "8180152950", "start": 29, "end": 39},
+    {"type": "PASSPORT", "text": "4578 330347", "start": 86, "end": 97},
+    {"type": "PASSPORT", "text": "4578330347", "start": 115, "end": 125},
+    {"type": "CARD", "text": "8056 2129 4178 1483", "start": 143, "end": 162},
+    {"type": "DATE", "text": "09.06.1973", "start": 178, "end": 188},
+    {"type": "PHONE", "text": "+78526187520", "start": 199, "end": 211},
+    {"type": "EMAIL", "text": "viktor38@example.net", "start": 219, "end": 241},
+    {"type": "PROJECT_ID", "text": "ABC-920", "start": 252, "end": 259},
+    {"type": "ORG_NAME", "text": "Дерево", "start": 272, "end": 278},
+    {"type": "LOC_NAME", "text": "Саратов", "start": 290, "end": 297}
+]

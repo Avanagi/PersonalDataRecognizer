@@ -1,0 +1,14 @@
+[
+    {"type": "SURNAME", "text": "Федорову", "start": 14, "end": 22},
+    {"type": "NAME", "text": "Екатерину", "start": 23, "end": 32},
+    {"type": "INN", "text": "4148655380", "start": 42, "end": 52},
+    {"type": "PASSPORT", "text": "4513 215357", "start": 99, "end": 110},
+    {"type": "PASSPORT", "text": "4513215357", "start": 128, "end": 138},
+    {"type": "CARD", "text": "6991 2228 5370 7295", "start": 156, "end": 175},
+    {"type": "DATE", "text": "07.03.1985", "start": 191, "end": 201},
+    {"type": "PHONE", "text": "8 (461) 337-0916", "start": 212, "end": 228},
+    {"type": "EMAIL", "text": "sofronnaumov@example.com", "start": 237, "end": 261},
+    {"type": "PROJECT_ID", "text": "ABC-937", "start": 272, "end": 279},
+    {"type": "ORG_NAME", "text": "Ферреро", "start": 294, "end": 301},
+    {"type": "LOC_NAME", "text": "Саратов", "start": 314, "end": 321}
+]

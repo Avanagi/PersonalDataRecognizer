@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Елизавета", "start": 12, "end": 21},
+    {"type": "SURNAME", "text": "Маркова", "start": 22, "end": 29},
+    {"type": "INN", "text": "8732556954", "start": 38, "end": 48},
+    {"type": "PASSPORT", "text": "4511 923012", "start": 95, "end": 106},
+    {"type": "PASSPORT", "text": "4511923012", "start": 124, "end": 134},
+    {"type": "CARD", "text": "8543 7431 8025 2233", "start": 152, "end": 171},
+    {"type": "DATE", "text": "18.01.1989", "start": 187, "end": 197},
+    {"type": "PHONE", "text": "84451606159", "start": 208, "end": 219},
+    {"type": "EMAIL", "text": "evdokija_2002@example.com", "start": 227, "end": 254},
+    {"type": "PROJECT_ID", "text": "ABC-891", "start": 265, "end": 272},
+    {"type": "ORG_NAME", "text": "BlockCube", "start": 290, "end": 299},
+    {"type": "LOC_NAME", "text": "Пятигорск", "start": 312, "end": 321}
+]

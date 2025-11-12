@@ -1,0 +1,14 @@
+[
+    {"type": "SURNAME", "text": "Серов", "start": 13, "end": 18},
+    {"type": "NAME", "text": "Бронислав", "start": 19, "end": 28},
+    {"type": "INN", "text": "8943463875", "start": 38, "end": 48},
+    {"type": "PASSPORT", "text": "4570 388402", "start": 95, "end": 106},
+    {"type": "PASSPORT", "text": "4570388402", "start": 124, "end": 134},
+    {"type": "CARD", "text": "9316 4843 6648 5304", "start": 152, "end": 171},
+    {"type": "DATE", "text": "10.01.1997", "start": 187, "end": 197},
+    {"type": "PHONE", "text": "+7 (235) 937-5911", "start": 208, "end": 225},
+    {"type": "EMAIL", "text": "ignatevradim@example.org", "start": 234, "end": 259},
+    {"type": "PROJECT_ID", "text": "ABC-221", "start": 270, "end": 277},
+    {"type": "ORG_NAME", "text": "ГромовЛтд", "start": 297, "end": 305},
+    {"type": "LOC_NAME", "text": "Краснодар", "start": 318, "end": 327}
+]

@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Екатерину", "start": 13, "end": 22},
+    {"type": "SURNAME", "text": "Петрову", "start": 23, "end": 30},
+    {"type": "INN", "text": "7537934294", "start": 40, "end": 50},
+    {"type": "PASSPORT", "text": "4502 497925", "start": 97, "end": 108},
+    {"type": "PASSPORT", "text": "4502497925", "start": 126, "end": 136},
+    {"type": "CARD", "text": "2762 8831 9060 7096", "start": 154, "end": 173},
+    {"type": "DATE", "text": "11.07.1998", "start": 189, "end": 199},
+    {"type": "PHONE", "text": "+74624441468", "start": 210, "end": 222},
+    {"type": "EMAIL", "text": "bronislavtihonov@example.com", "start": 230, "end": 259},
+    {"type": "PROJECT_ID", "text": "ABC-943", "start": 270, "end": 277},
+    {"type": "ORG_NAME", "text": "Circle", "start": 290, "end": 296},
+    {"type": "LOC_NAME", "text": "Москва", "start": 308, "end": 314}
+]

@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Вере", "start": 23, "end": 27},
+    {"type": "SURNAME", "text": "Серовой", "start": 28, "end": 35},
+    {"type": "INN", "text": "2161827518", "start": 47, "end": 57},
+    {"type": "PASSPORT", "text": "4524 951016", "start": 101, "end": 112},
+    {"type": "PASSPORT", "text": "4524951016", "start": 130, "end": 139},
+    {"type": "CARD", "text": "4203 7085 4283 5652", "start": 157, "end": 174},
+    {"type": "DATE", "text": "13.05.1991", "start": 190, "end": 200},
+    {"type": "PHONE", "text": "8 924 924 51 12", "start": 211, "end": 226},
+    {"type": "EMAIL", "text": "milovankudrjashov@example.net", "start": 235, "end": 265},
+    {"type": "PROJECT_ID", "text": "ABC-155", "start": 276, "end": 283},
+    {"type": "ORG_NAME", "text": "Бор", "start": 297, "end": 300},
+    {"type": "LOC_NAME", "text": "Уссурийск", "start": 312, "end": 322}
+]

@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Стас", "start": 12, "end": 16},
+    {"type": "SURNAME", "text": "Ларионов", "start": 17, "end": 25},
+    {"type": "INN", "text": "3613075730", "start": 35, "end": 45},
+    {"type": "PASSPORT", "text": "4564 351992", "start": 92, "end": 103},
+    {"type": "PASSPORT", "text": "4564351992", "start": 121, "end": 131},
+    {"type": "CARD", "text": "4271 6425 7571 6108", "start": 149, "end": 168},
+    {"type": "DATE", "text": "28.02.2007", "start": 184, "end": 194},
+    {"type": "PHONE", "text": "+7 534 829 4010", "start": 205, "end": 219},
+    {"type": "EMAIL", "text": "anzhelika2009@example.org", "start": 227, "end": 254},
+    {"type": "PROJECT_ID", "text": "ABC-569", "start": 265, "end": 272},
+    {"type": "ORG_NAME", "text": "Booking", "start": 285, "end": 292},
+    {"type": "LOC_NAME", "text": "Воскресенск", "start": 305, "end": 316}
+]

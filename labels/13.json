@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Игоря", "start": 14, "end": 19},
+    {"type": "SURNAME", "text": "Самойлова", "start": 20, "end": 29},
+    {"type": "INN", "text": "5443368089", "start": 39, "end": 49},
+    {"type": "PASSPORT", "text": "4565 853132", "start": 96, "end": 107},
+    {"type": "PASSPORT", "text": "4565853132", "start": 125, "end": 135},
+    {"type": "CARD", "text": "3382 3075 5622 8170", "start": 153, "end": 172},
+    {"type": "DATE", "text": "31.12.1991", "start": 188, "end": 198},
+    {"type": "PHONE", "text": "8 (395) 481-2860", "start": 209, "end": 225},
+    {"type": "EMAIL", "text": "ppetuhova@example.com", "start": 234, "end": 255},
+    {"type": "PROJECT_ID", "text": "ABC-860", "start": 266, "end": 273},
+    {"type": "ORG_NAME", "text": "Перекресток", "start": 292, "end": 302},
+    {"type": "LOC_NAME", "text": "Петрозаводск", "start": 315, "end": 327}
+]

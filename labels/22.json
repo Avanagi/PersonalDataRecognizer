@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Яна", "start": 13, "end": 17},
+    {"type": "SURNAME", "text": "Аксенова", "start": 18, "end": 26},
+    {"type": "INN", "text": "7186940112", "start": 36, "end": 46},
+    {"type": "PASSPORT", "text": "4564 755927", "start": 93, "end": 104},
+    {"type": "PASSPORT", "text": "4564755927", "start": 122, "end": 132},
+    {"type": "CARD", "text": "4662 6613 6200 4590", "start": 150, "end": 169},
+    {"type": "DATE", "text": "07.08.1999", "start": 185, "end": 195},
+    {"type": "PHONE", "text": "+7 (701) 549-00-47", "start": 206, "end": 224},
+    {"type": "EMAIL", "text": "fvasilev@example.net", "start": 232, "end": 254},
+    {"type": "PROJECT_ID", "text": "ABC-838", "start": 265, "end": 272},
+    {"type": "ORG_NAME", "text": "Крылов и партнеры", "start": 285, "end": 304},
+    {"type": "LOC_NAME", "text": "Петрозаводск", "start": 316, "end": 328}
+]

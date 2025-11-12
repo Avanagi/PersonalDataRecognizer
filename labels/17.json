@@ -1,0 +1,14 @@
+[
+    {"type": "SURNAME", "text": "Власов", "start": 12, "end": 18},
+    {"type": "NAME", "text": "Александр", "start": 19, "end": 28},
+    {"type": "INN", "text": "9614167093", "start": 38, "end": 48},
+    {"type": "PASSPORT", "text": "4573 609402", "start": 95, "end": 106},
+    {"type": "PASSPORT", "text": "4573609402", "start": 124, "end": 134},
+    {"type": "CARD", "text": "5289 9131 2060 2854", "start": 152, "end": 171},
+    {"type": "DATE", "text": "26.04.1981", "start": 187, "end": 197},
+    {"type": "PHONE", "text": "+7 (393) 547-21-74", "start": 208, "end": 226},
+    {"type": "EMAIL", "text": "ruben2000@example.net", "start": 234, "end": 258},
+    {"type": "PROJECT_ID", "text": "ABC-594", "start": 269, "end": 276},
+    {"type": "ORG_NAME", "text": "ЗайцевМедведева", "start": 291, "end": 308},
+    {"type": "LOC_NAME", "text": "Тюмень", "start": 321, "end": 327}
+]

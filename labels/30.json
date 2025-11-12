@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Петра", "start": 12, "end": 17},
+    {"type": "SURNAME", "text": "Петрова", "start": 18, "end": 25},
+    {"type": "INN", "text": "1010953540", "start": 36, "end": 46},
+    {"type": "PASSPORT", "text": "4529 404380", "start": 93, "end": 104},
+    {"type": "PASSPORT", "text": "4529404380", "start": 122, "end": 132},
+    {"type": "CARD", "text": "5347 8372 2840 9179", "start": 150, "end": 169},
+    {"type": "DATE", "text": "13.10.2000", "start": 185, "end": 195},
+    {"type": "PHONE", "text": "8 (833) 862-50-64", "start": 206, "end": 224},
+    {"type": "EMAIL", "text": "lavr2002@example.com", "start": 232, "end": 254},
+    {"type": "PROJECT_ID", "text": "ABC-466", "start": 265, "end": 272},
+    {"type": "ORG_NAME", "text": "Евдокимов-Лтд", "start": 285, "end": 298},
+    {"type": "LOC_NAME", "text": "Анапа", "start": 310, "end": 315}
+]

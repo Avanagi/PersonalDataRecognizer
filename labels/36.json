@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Эдуард", "start": 12, "end": 18},
+    {"type": "SURNAME", "text": "Овчинников", "start": 19, "end": 30},
+    {"type": "INN", "text": "7891754519", "start": 36, "end": 46},
+    {"type": "PASSPORT", "text": "4526 782553", "start": 90, "end": 101},
+    {"type": "PASSPORT", "text": "4526782553", "start": 119, "end": 128},
+    {"type": "CARD", "text": "2110 5885 2427 9772", "start": 147, "end": 164},
+    {"type": "DATE", "text": "16.08.1985", "start": 180, "end": 190},
+    {"type": "PHONE", "text": "8 405 323 0116", "start": 201, "end": 214},
+    {"type": "EMAIL", "text": "orehovklavdi@example.net", "start": 225, "end": 252},
+    {"type": "PROJECT_ID", "text": "ABC-599", "start": 263, "end": 270},
+    {"type": "ORG_NAME", "text": "AssembleStudio", "start": 284, "end": 298},
+    {"type": "LOC_NAME", "text": "Муром", "start": 310, "end": 315}
+]

@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Павла", "start": 12, "end": 17},
+    {"type": "SURNAME", "text": "Павлова", "start": 18, "end": 25},
+    {"type": "INN", "text": "8588356212", "start": 35, "end": 45},
+    {"type": "PASSPORT", "text": "4513 624008", "start": 92, "end": 103},
+    {"type": "PASSPORT", "text": "4513624008", "start": 121, "end": 131},
+    {"type": "CARD", "text": "2131 8734 2553 4383", "start": 149, "end": 168},
+    {"type": "DATE", "text": "02.02.2001", "start": 184, "end": 194},
+    {"type": "PHONE", "text": "8 (772) 374-5060", "start": 205, "end": 221},
+    {"type": "EMAIL", "text": "german50@example.com", "start": 229, "end": 250},
+    {"type": "PROJECT_ID", "text": "ABC-896", "start": 261, "end": 268},
+    {"type": "ORG_NAME", "text": "Merlion", "start": 281, "end": 288},
+    {"type": "LOC_NAME", "text": "Сочи", "start": 301, "end": 305}
+]

@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Екатерине", "start": 20, "end": 29},
+    {"type": "SURNAME", "text": "Петровой", "start": 30, "end": 38},
+    {"type": "INN", "text": "7830002293", "start": 50, "end": 60},
+    {"type": "PASSPORT", "text": "4541 363822", "start": 104, "end": 115},
+    {"type": "PASSPORT", "text": "4541363822", "start": 133, "end": 142},
+    {"type": "CARD", "text": "9779 8681 8953 9646", "start": 161, "end": 180},
+    {"type": "DATE", "text": "21.07.1988", "start": 196, "end": 206},
+    {"type": "PHONE", "text": "+76390790128", "start": 217, "end": 229},
+    {"type": "EMAIL", "text": "rubentsvetkov@example.org", "start": 238, "end": 264},
+    {"type": "PROJECT_ID", "text": "ABC-423", "start": 275, "end": 282},
+    {"type": "ORG_NAME", "text": "Иванов-Групп", "start": 296, "end": 307},
+    {"type": "LOC_NAME", "text": "Санкт-Петербург", "start": 319, "end": 334}
+]

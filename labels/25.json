@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Родион", "start": 12, "end": 18},
+    {"type": "SURNAME", "text": "Жданов", "start": 19, "end": 25},
+    {"type": "INN", "text": "5307730285", "start": 34, "end": 44},
+    {"type": "PASSPORT", "text": "4542 230241", "start": 91, "end": 102},
+    {"type": "PASSPORT", "text": "4542230241", "start": 120, "end": 130},
+    {"type": "CARD", "text": "4632 4789 9898 1878", "start": 148, "end": 167},
+    {"type": "DATE", "text": "11.01.1985", "start": 183, "end": 193},
+    {"type": "PHONE", "text": "+7 (436) 505-36-53", "start": 204, "end": 222},
+    {"type": "EMAIL", "text": "serge_62@example.net", "start": 230, "end": 252},
+    {"type": "PROJECT_ID", "text": "ABC-631", "start": 263, "end": 270},
+    {"type": "ORG_NAME", "text": "ИвановаАндреев", "start": 288, "end": 305},
+    {"type": "LOC_NAME", "text": "Пермь", "start": 317, "end": 322}
+]

@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Дмитрий", "start": 16, "end": 23},
+    {"type": "SURNAME", "text": "Лобанов", "start": 10, "end": 17},
+    {"type": "INN", "text": "8984157926", "start": 38, "end": 48},
+    {"type": "PASSPORT", "text": "4506 351011", "start": 95, "end": 106},
+    {"type": "PASSPORT", "text": "4506351011", "start": 124, "end": 134},
+    {"type": "CARD", "text": "9035 1271 9387 7280", "start": 152, "end": 171},
+    {"type": "DATE", "text": "05.01.1972", "start": 187, "end": 197},
+    {"type": "PHONE", "text": "+7 630 838 8536", "start": 208, "end": 225},
+    {"type": "EMAIL", "text": "evfrosinija_1983@example.net", "start": 233, "end": 266},
+    {"type": "PROJECT_ID", "text": "ABC-431", "start": 277, "end": 284},
+    {"type": "ORG_NAME", "text": "ЕрмаковаКорп", "start": 287, "end": 298},
+    {"type": "LOC_NAME", "text": "Уфа", "start": 316, "end": 319}
+]

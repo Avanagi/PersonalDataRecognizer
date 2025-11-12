@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Екатерину", "start": 13, "end": 22},
+    {"type": "SURNAME", "text": "Петрову", "start": 23, "end": 30},
+    {"type": "INN", "text": "7945374643", "start": 38, "end": 48},
+    {"type": "PASSPORT", "text": "4548 295663", "start": 92, "end": 103},
+    {"type": "PASSPORT", "text": "4548295663", "start": 121, "end": 130},
+    {"type": "CARD", "text": "7704 3013 5012 9991", "start": 149, "end": 166},
+    {"type": "DATE", "text": "11.07.1971", "start": 182, "end": 192},
+    {"type": "PHONE", "text": "+7 161 343 6945", "start": 203, "end": 218},
+    {"type": "EMAIL", "text": "emil87@example.net", "start": 227, "end": 247},
+    {"type": "PROJECT_ID", "text": "ABC-836", "start": 258, "end": 265},
+    {"type": "ORG_NAME", "text": "Город", "start": 279, "end": 284},
+    {"type": "LOC_NAME", "text": "Саратов", "start": 296, "end": 303}
+]

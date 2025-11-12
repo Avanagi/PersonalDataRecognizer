@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Сергей", "start": 12, "end": 18},
+    {"type": "SURNAME", "text": "Николаев", "start": 19, "end": 27},
+    {"type": "INN", "text": "8477320468", "start": 36, "end": 46},
+    {"type": "PASSPORT", "text": "4526 810263", "start": 90, "end": 101},
+    {"type": "PASSPORT", "text": "4526810263", "start": 119, "end": 128},
+    {"type": "CARD", "text": "5937 1395 6055 5701", "start": 147, "end": 164},
+    {"type": "DATE", "text": "14.06.1997", "start": 180, "end": 190},
+    {"type": "PHONE", "text": "+76772784544", "start": 201, "end": 212},
+    {"type": "EMAIL", "text": "zahar_06@example.org", "start": 222, "end": 245},
+    {"type": "PROJECT_ID", "text": "ABC-553", "start": 256, "end": 263},
+    {"type": "ORG_NAME", "text": "Беспалова", "start": 277, "end": 285},
+    {"type": "LOC_NAME", "text": "Кемерово", "start": 297, "end": 305}
+]

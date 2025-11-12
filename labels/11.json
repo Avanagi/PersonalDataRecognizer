@@ -1,0 +1,14 @@
+[
+    {"type": "SURNAME", "text": "Гусева", "start": 14, "end": 20},
+    {"type": "NAME", "text": "Петра", "start": 21, "end": 26},
+    {"type": "INN", "text": "8701881070", "start": 36, "end": 46},
+    {"type": "PASSPORT", "text": "4573 465894", "start": 93, "end": 104},
+    {"type": "PASSPORT", "text": "4573465894", "start": 122, "end": 132},
+    {"type": "CARD", "text": "5248 3367 5492 1731", "start": 150, "end": 169},
+    {"type": "DATE", "text": "11.03.2002", "start": 185, "end": 195},
+    {"type": "PHONE", "text": "+7 (288) 949-9709", "start": 206, "end": 223},
+    {"type": "EMAIL", "text": "tborisova@example.com", "start": 232, "end": 254},
+    {"type": "PROJECT_ID", "text": "ABC-411", "start": 265, "end": 272},
+    {"type": "ORG_NAME", "text": "Куб", "start": 287, "end": 290},
+    {"type": "LOC_NAME", "text": "Сызрань", "start": 303, "end": 310}
+]

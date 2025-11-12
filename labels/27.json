@@ -1,0 +1,14 @@
+[
+    {"type": "NAME", "text": "Полина", "start": 17, "end": 23},
+    {"type": "SURNAME", "text": "Фомина", "start": 10, "end": 16},
+    {"type": "INN", "text": "7849890814", "start": 38, "end": 48},
+    {"type": "PASSPORT", "text": "4504 350938", "start": 95, "end": 106},
+    {"type": "PASSPORT", "text": "4504350938", "start": 124, "end": 134},
+    {"type": "CARD", "text": "2147 1703 1284 1563", "start": 152, "end": 171},
+    {"type": "DATE", "text": "06.01.2007", "start": 187, "end": 197},
+    {"type": "PHONE", "text": "81041686718", "start": 208, "end": 219},
+    {"type": "EMAIL", "text": "boleslavsharapov@example.com", "start": 227, "end": 259},
+    {"type": "PROJECT_ID", "text": "ABC-526", "start": 270, "end": 277},
+    {"type": "ORG_NAME", "text": "СамсоновАрхипов", "start": 290, "end": 308},
+    {"type": "LOC_NAME", "text": "Дубна", "start": 320, "end": 325}
+]

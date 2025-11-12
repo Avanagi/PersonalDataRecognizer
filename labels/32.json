@@ -1,0 +1,14 @@
+[
+    {"type": "SURNAME", "text": "Абрамову", "start": 20, "end": 27},
+    {"type": "NAME", "text": "Максиму", "start": 28, "end": 34},
+    {"type": "INN", "text": "7530318056", "start": 46, "end": 56},
+    {"type": "PASSPORT", "text": "4564 899222", "start": 100, "end": 111},
+    {"type": "PASSPORT", "text": "4564899222", "start": 129, "end": 138},
+    {"type": "CARD", "text": "1529 5458 8503 1991", "start": 157, "end": 174},
+    {"type": "DATE", "text": "25.10.1968", "start": 190, "end": 200},
+    {"type": "PHONE", "text": "+78701123917", "start": 211, "end": 222},
+    {"type": "EMAIL", "text": "andronik38@example.net", "start": 231, "end": 254},
+    {"type": "PROJECT_ID", "text": "ABC-536", "start": 265, "end": 272},
+    {"type": "ORG_NAME", "text": "Ингосстрах", "start": 286, "end": 296},
+    {"type": "LOC_NAME", "text": "Клин", "start": 308, "end": 312}
+]
